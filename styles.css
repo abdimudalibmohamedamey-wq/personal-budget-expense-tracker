@@ -1,0 +1,18 @@
+/* Element selector */
+h1 {
+    text-align: center;
+}
+
+/* ID selector */
+#add-expense {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Class selector */
+.expenses {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+}
